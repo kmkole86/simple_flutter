@@ -1,16 +1,12 @@
-# simple_flutter
 
-A new Flutter project.
+overkill of the simplest list. Clean architecture with 
+maintainability and scalability in focus...
+TDD, CLEAN, BloC, GetIt, Drift, Dio...
+• Out of scope:
+  ▪ UI (done in a way just to prove a point)
+  ▪ All cases handled etc. (not meant to be a complete solution) 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Not finished, ment to be used as conversation starting point.
+it can go different ways from here... e.g. adding redux
+for encapsulating state update logic into smaller units,
+optimize it in a various directions...
